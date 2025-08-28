@@ -34,3 +34,15 @@ Farm Staff
 4. As a farm staff member, I want to report any issues with cows or equipment directly through the system so that problems can be resolved quickly.
 5. As a farm staff member, I want to access historical data on cow health and milk production to understand trends better and prepare for future tasks.
 
+# Requirement Prioritization (MoSCoW Technique)
+M(Must have)
+1. The system must only allow access to authenticated users. Authentication is crucial for ensuring security and proper access control.
+2. The farm manager must be able to view detailed health records for each cow. This is essential for managing the health of the livestock effectively.
+3. The farm manager must be able to monitor daily milk production data for individual cows. Key functionality for tracking production and ensuring the farm's profitability.
+4. The system must allow the farm manager to receive alerts for any irregularities in milk production or cow health. Alerts are critical for timely intervention and problem resolution.
+5. Farm staff must be able to update cow health records after routine checks. Ensures that health data is up to date, which is vital for informed decision-making.
+6. Farm staff must be able to log daily milk production data into the system. Essential for maintaining accurate production records.
+7. The system must allow the farm manager to send notifications to farm staff regarding tasks or issues. Necessary for effective communication and task management.
+8. Farm staff must be able to view and acknowledge the notifications sent by the farm manager. Ensures that important information is received and acted upon by the staff.
+
+
