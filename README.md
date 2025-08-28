@@ -51,4 +51,12 @@ S(Should have):
 3. The system must display essential farm information, such as farm ID, bank account details, and contact information. Useful for administrative tasks but not vital for core operations.
 4. The farm manager must be able to log and track services performed on the farm, such as equipment maintenance or veterinary visits. Important for maintenance and tracking, but could be done manually if necessary.
 
+C(Could have):
+1. The system must provide a real-time chat feature for communication between the farm manager and farm staff. Real-time communication is convenient but can be substituted with other forms of communication if needed.
+2. Users must be able to choose between dark mode and light mode within the system. Improves user experience but does not impact the system's core functionality.
+
+W(Won’t have):
+1. The system must support both English (US) and English (UK) as language options for the interface. Language support could be useful, but it isn’t critical for the initial release.
+2. The system must be accessible to users with visual impairments. Accessibility is important, but depending on the target user base and project scope, it might be deferred to a later version.
+
 
