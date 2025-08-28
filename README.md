@@ -131,6 +131,29 @@ Tasks:
 Deliverables:
 - Basic UI integrated with the backend, allowing for management of cows and tracking of milk production.
 
+## Sprint 4: Stretch Goals and Finalization
+
+Focus:
+- Final polishing, documentation, and potentially adding the HealthRecord entity.
+
+Tasks:
+1. Polish and optimize:
+- Refine any rough edges in the system.
+- Optimize queries and database performance if necessary.
+2. Implement the HealthRecord (Journal) entity (if time permits):
+- Create the table in the database.
+- Implement CRUD operations.
+- Establish the relationship between HealthRecord and Cow.
+3. Documentation:
+- Document the entire system, including database schema, API endpoints, and usage instructions.
+4. Final Testing:
+- Conduct comprehensive testing to ensure the system is robust and bug-free.
+
+Deliverables:
+- Finalized system with potential inclusion of the HealthRecord entity.
+- Comprehensive documentation ready for handover or deployment.
+
+
 
 
 
