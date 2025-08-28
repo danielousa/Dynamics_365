@@ -74,7 +74,7 @@ Number of Sprints: 4 sprints (including a potential stretch sprint)
 ## Sprint 1: Core Setup and Master Data
 
 Focus:
-Setting up the foundational components of the system.
+- Setting up the foundational components of the system.
 
 Tasks:
 1. Set up the development environment:
@@ -96,7 +96,7 @@ Deliverables:
 ## Sprint 2: Milk Production Tracking
 
 Focus:
-Implementing the milk production tracking functionality.
+- Implementing the milk production tracking functionality.
 
 Tasks:
 1. Implement the MilkProductionHeader (Document) entity:
