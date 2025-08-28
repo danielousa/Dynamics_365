@@ -81,25 +81,17 @@ Tasks:
 - Configure the database.
 - Establish version control.
 2. Implement the Cow (Master Table) entity:
-o
-Create the table in the database.
-o
-Implement basic CRUD (Create, Read, Update, Delete) operations.
-o
-Integrate the BreedType (Supplemental) relationship.
-3.
-Implement the BreedType (Supplemental) entity:
-o
-Create the table in the database.
-o
-Implement basic CRUD operations.
-4.
-Testing:
-o
-Test the Cow and BreedType entities to ensure they work as expected.
+- Create the table in the database.
+- Implement basic CRUD (Create, Read, Update, Delete) operations.
+- Integrate the BreedType (Supplemental) relationship.
+3. Implement the BreedType (Supplemental) entity:
+- Create the table in the database.
+- Implement basic CRUD operations.
+4. Testing:
+- Test the Cow and BreedType entities to ensure they work as expected.
+
 Deliverables:
-•
-Functional Cow and BreedType tables with proper relationships and CRUD operations.
+- Functional Cow and BreedType tables with proper relationships and CRUD operations.
 
 
 
