@@ -153,6 +153,25 @@ Deliverables:
 - Finalized system with potential inclusion of the HealthRecord entity.
 - Comprehensive documentation ready for handover or deployment.
 
+# Storyboard Agile (Azure)
+
+#### Project Overview
+<img width="940" height="463" alt="image" src="https://github.com/user-attachments/assets/98621d60-f46b-4d8e-8551-51a4562beff2" />
+
+#### Kanban Boards
+<img width="937" height="443" alt="image" src="https://github.com/user-attachments/assets/26919222-551e-4bdc-8915-21360cdcd3c3" />
+
+#### Backlogs
+<img width="940" height="443" alt="image" src="https://github.com/user-attachments/assets/220c37ca-4c1b-4c5c-97a0-b6a4d2b0924a" />
+
+#### Sprints
+<img width="940" height="445" alt="image" src="https://github.com/user-attachments/assets/7fd052c7-a1f4-4414-a14d-77259a1254e9" />
+
+
+
+
+
+
 
 
 
