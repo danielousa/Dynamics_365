@@ -59,4 +59,11 @@ W(Won’t have):
 1. The system must support both English (US) and English (UK) as language options for the interface. Language support could be useful, but it isn’t critical for the initial release.
 2. The system must be accessible to users with visual impairments. Accessibility is important, but depending on the target user base and project scope, it might be deferred to a later version.
 
+# Sprint Planning Overview
+Regarding my experience, the complexity of the project and the due dates, I decided to focus on these entities:
+ER-Diagram:
+<img width="940" height="692" alt="image" src="https://github.com/user-attachments/assets/9edeea99-b260-4851-966c-3d6813f3c1ea" />
+
+
+
 
