@@ -35,7 +35,7 @@ Farm Staff
 5. As a farm staff member, I want to access historical data on cow health and milk production to understand trends better and prepare for future tasks.
 
 # Requirement Prioritization (MoSCoW Technique)
-M(Must have)
+M(Must have):
 1. The system must only allow access to authenticated users. Authentication is crucial for ensuring security and proper access control.
 2. The farm manager must be able to view detailed health records for each cow. This is essential for managing the health of the livestock effectively.
 3. The farm manager must be able to monitor daily milk production data for individual cows. Key functionality for tracking production and ensuring the farm's profitability.
@@ -44,5 +44,11 @@ M(Must have)
 6. Farm staff must be able to log daily milk production data into the system. Essential for maintaining accurate production records.
 7. The system must allow the farm manager to send notifications to farm staff regarding tasks or issues. Necessary for effective communication and task management.
 8. Farm staff must be able to view and acknowledge the notifications sent by the farm manager. Ensures that important information is received and acted upon by the staff.
+
+S(Should have):
+1. The farm manager must be able to review and respond to issues reported by farm staff. Improves responsiveness and issue resolution, but basic reporting can be handled manually if needed.
+2. The system must provide tools for generating reports on farm performance, including metrics on milk production and cow health. Reporting is valuable for long-term planning and analysis, but it isn’t critical for day-to-day operations.
+3. The system must display essential farm information, such as farm ID, bank account details, and contact information. Useful for administrative tasks but not vital for core operations.
+4. The farm manager must be able to log and track services performed on the farm, such as equipment maintenance or veterinary visits. Important for maintenance and tracking, but could be done manually if necessary.
 
 
