@@ -16,3 +16,12 @@ Stakeholders (client and users) and How the System Affects Their Lives:
 
 This farm management extension is designed for use by farm managers and agricultural business owners who need a comprehensive tool for overseeing livestock and milk production. Users will be able to monitor real-time data on cow health, track milk production trends, and manage farm-related financials all within a single platform. The extension also allows for seamless communication between farm staff, ensuring that any issues related to animal health or production are promptly addressed.
 On the other hand, agricultural businesses will benefit from advanced reporting tools that provide insights into farm performance, helping them make data-driven decisions. This integrated system simplifies farm management tasks, improves data accuracy, and ultimately enhances the productivity and sustainability of the farming operations.
+
+# User Stories
+Farm Manager
+
+• As a farm manager, I want to track the health records of each cow to ensure timely medical care and maintain herd health.
+• As a farm manager, I want to monitor daily milk production per cow to identify trends and optimize milk yields.
+• As a farm manager, I want to receive notifications about irregularities in milk production or cow health so that I can take immediate action.
+• As a farm manager, I want to generate reports on farm performance, including milk production and herd health metrics, to inform decision-making and strategic planning.
+• As a farm manager, I want to communicate directly with farm staff through the system to coordinate tasks and ensure operational efficiency.
