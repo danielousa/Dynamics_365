@@ -8,9 +8,11 @@ The decision to create a dedicated farm management extension for Business Centra
 
 # Objectives
 Purpose of the System (context and objectives):
+
 To develop a farm management extension for Business Central aimed at improving the management of cattle and milk production. This extension will incorporate various tasks and functionalities (e.g., monitoring milk yields, tracking cow health, managing financials, generating reports, etc.) to streamline interactions between farm managers and the system, thereby enhancing operational efficiency and decision-making processes.
 
 # Stakeholders
 Stakeholders (client and users) and How the System Affects Their Lives:
+
 This farm management extension is designed for use by farm managers and agricultural business owners who need a comprehensive tool for overseeing livestock and milk production. Users will be able to monitor real-time data on cow health, track milk production trends, and manage farm-related financials all within a single platform. The extension also allows for seamless communication between farm staff, ensuring that any issues related to animal health or production are promptly addressed.
 On the other hand, agricultural businesses will benefit from advanced reporting tools that provide insights into farm performance, helping them make data-driven decisions. This integrated system simplifies farm management tasks, improves data accuracy, and ultimately enhances the productivity and sustainability of the farming operations.
