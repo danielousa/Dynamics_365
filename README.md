@@ -61,8 +61,16 @@ W(Won’t have):
 
 # Sprint Planning Overview
 Regarding my experience, the complexity of the project and the due dates, I decided to focus on these entities:
+
 ER-Diagram:
 <img width="940" height="692" alt="image" src="https://github.com/user-attachments/assets/9edeea99-b260-4851-966c-3d6813f3c1ea" />
+
+Total Time: 4 Weeks (1 month)
+
+Sprint Duration: 1 week per sprint
+
+Number of Sprints: 4 sprints (including a potential stretch sprint)
+
 
 
 
