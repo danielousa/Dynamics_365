@@ -20,8 +20,8 @@ On the other hand, agricultural businesses will benefit from advanced reporting 
 # User Stories
 Farm Manager
 
-• As a farm manager, I want to track the health records of each cow to ensure timely medical care and maintain herd health.
-• As a farm manager, I want to monitor daily milk production per cow to identify trends and optimize milk yields.
-• As a farm manager, I want to receive notifications about irregularities in milk production or cow health so that I can take immediate action.
-• As a farm manager, I want to generate reports on farm performance, including milk production and herd health metrics, to inform decision-making and strategic planning.
-• As a farm manager, I want to communicate directly with farm staff through the system to coordinate tasks and ensure operational efficiency.
+1. As a farm manager, I want to track the health records of each cow to ensure timely medical care and maintain herd health.
+2. As a farm manager, I want to monitor daily milk production per cow to identify trends and optimize milk yields.
+3. As a farm manager, I want to receive notifications about irregularities in milk production or cow health so that I can take immediate action.
+4. As a farm manager, I want to generate reports on farm performance, including milk production and herd health metrics, to inform decision-making and strategic planning.
+5. As a farm manager, I want to communicate directly with farm staff through the system to coordinate tasks and ensure operational efficiency.
