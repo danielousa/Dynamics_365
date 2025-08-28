@@ -71,6 +71,38 @@ Sprint Duration: 1 week per sprint
 
 Number of Sprints: 4 sprints (including a potential stretch sprint)
 
+## Sprint 1: Core Setup and Master Data
+
+Focus:
+Setting up the foundational components of the system.
+
+Tasks:
+1. Set up the development environment:
+#### Configure the database.
+o
+Establish version control.
+2.
+Implement the Cow (Master Table) entity:
+o
+Create the table in the database.
+o
+Implement basic CRUD (Create, Read, Update, Delete) operations.
+o
+Integrate the BreedType (Supplemental) relationship.
+3.
+Implement the BreedType (Supplemental) entity:
+o
+Create the table in the database.
+o
+Implement basic CRUD operations.
+4.
+Testing:
+o
+Test the Cow and BreedType entities to ensure they work as expected.
+Deliverables:
+•
+Functional Cow and BreedType tables with proper relationships and CRUD operations.
+
 
 
 
