@@ -25,3 +25,7 @@ Farm Manager
 3. As a farm manager, I want to receive notifications about irregularities in milk production or cow health so that I can take immediate action.
 4. As a farm manager, I want to generate reports on farm performance, including milk production and herd health metrics, to inform decision-making and strategic planning.
 5. As a farm manager, I want to communicate directly with farm staff through the system to coordinate tasks and ensure operational efficiency.
+
+Farm Staff
+
+
