@@ -1,0 +1,8 @@
+.alpackages/Microsoft_Application_24.3.21374.22374.app
+.alpackages/Microsoft_Base Application_24.3.21374.22374.app
+.alpackages/Microsoft_Business Foundation_24.3.21374.22374.app
+.alpackages/Microsoft_System Application_24.3.21374.22374.app
+.alpackages/Microsoft_System_24.0.22352.0.app
+.vscode/launch.json
+.vscode/*.json
+*.app

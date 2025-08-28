@@ -1,0 +1,20 @@
+img {
+    max-width: 100%;  /* Ensures the image never exceeds its container */
+    height: auto;     /* Keeps the aspect ratio intact */
+    display: block;
+    margin: 0 auto;   /* Centers the image */
+}
+
+#controlAddIn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f9f9f9;
+    padding: 10px;
+}
+
+#myChart {
+    /*border: 2px solid #333;*/
+    border-radius: 8px;
+    background-color: #ffffff;
+}
