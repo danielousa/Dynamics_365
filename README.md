@@ -93,6 +93,26 @@ Tasks:
 Deliverables:
 - Functional Cow and BreedType tables with proper relationships and CRUD operations.
 
+## Sprint 2: Milk Production Tracking
+
+Focus:
+Implementing the milk production tracking functionality.
+
+Tasks:
+1. Implement the MilkProductionHeader (Document) entity:
+- Create the table in the database.
+- Implement basic CRUD operations.
+2. Implement the MilkProductionLine (Document) entity:
+- Create the table in the database.
+- Implement basic CRUD operations.
+- Establish the relationship between MilkProductionLine and Cow.
+- Establish the relationship between MilkProductionLine and MilkProductionHeader.
+3. Testing:
+- Test the milk production tracking system by inserting sample data and verifying outputs.
+
+Deliverables:
+- Functional milk production tracking system with MilkProductionHeader and MilkProductionLine entities.
+
 
 
 
