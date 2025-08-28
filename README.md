@@ -113,6 +113,25 @@ Tasks:
 Deliverables:
 - Functional milk production tracking system with MilkProductionHeader and MilkProductionLine entities.
 
+## Sprint 3: UI and Integration
+
+Focus:
+- Developing a user interface and integrating the components implemented so far.
+
+Tasks:
+1. Develop a basic UI:
+- Create a simple interface for managing cows, breeds, and milk production.
+2. Integrate front-end and back-end:
+- Connect the UI to the database.
+- Implement input forms and data displays for Cow, BreedType, MilkProductionHeader, and MilkProductionLine.
+3. Testing:
+- Perform end-to-end testing of the system.
+- Ensure that the UI correctly interacts with the database and that data integrity is maintained.
+
+Deliverables:
+- Basic UI integrated with the backend, allowing for management of cows and tracking of milk production.
+
+
 
 
 
