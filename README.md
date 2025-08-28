@@ -78,11 +78,9 @@ Setting up the foundational components of the system.
 
 Tasks:
 1. Set up the development environment:
-#### Configure the database.
-o
-Establish version control.
-2.
-Implement the Cow (Master Table) entity:
+- Configure the database.
+- Establish version control.
+2. Implement the Cow (Master Table) entity:
 o
 Create the table in the database.
 o
